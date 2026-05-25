@@ -1,0 +1,15 @@
+import jwt from "jsonwebtoken";
+import { env } from "../config/env.js";
+
+export function createToken(userId) {
+  return jwt.sign({ userId }, env.JWT_SECRET, { expiresIn: env.JWT_EXPIRES_IN });
+}
+
+export function setAuthCookie(res, token) {
+  res.cookie("token", token, {
+    httpOnly: true,
+    sameSite: env.NODE_ENV === "production" ? "none" : "lax",
+    secure: env.NODE_ENV === "production",
+    maxAge: 7 * 24 * 60 * 60 * 1000
+  });
+}
