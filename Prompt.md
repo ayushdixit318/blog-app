@@ -10,14 +10,14 @@ You’re a Full-Stack Software Engineer, with experience in modern web technolog
 
 Develop a complete full-stack CRUD Blog Application that:
 
-Secure user authentication and session persistence are used to facilitate user access.
-Allowing allowed users to add, edit, remove, and manage their own blog entries, it provides complete blog management features.
-Users can browse previously published blog articles using its public blog browsing tools.
+-Secure user authentication and session persistence are used to facilitate user access.
+- Allowing allowed users to add, edit, remove, and manage their own blog entries, it provides complete blog management features.
+- Users can browse previously published blog articles using its public blog browsing tools.
 - Offers capabilities for uploading images and handling secure storage for blog cover photos.
-provides advanced search, filtering, and sorting capabilities that improve blog discoverability and user experience.
-With its personalized user interface, you can control published blog content and analyze speedy activity data.
+- Provides advanced search, filtering, and sorting capabilities that improve blog discoverability and user experience.
+- With its personalized user interface, you can control published blog content and analyze speedy activity data.
 - Develops production-quality backend APIs with suitable authorization, authentication, validation, and structured error handling.
-guarantees adaptive user interface design, accessibility, maintainability, and deployment readiness.
+- Guarantees adaptive user interface design, accessibility, maintainability, and deployment readiness.
 
 ---
 
@@ -230,6 +230,7 @@ The application must gracefully handle:
 - Ask users to log in again when their session has expired.
 - Show clear and helpful error messages when users submit incomplete or invalid information.
 - Safely handle unexpected server failures without exposing sensitive system information.
+
 All backend responses must include:
 
 - Success status.
