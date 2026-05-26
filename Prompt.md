@@ -2,7 +2,7 @@
 
 ## Context and Role
 
-As a Full-Stack Software Engineer specializing in modern web application development, you are responsible for designing and implementing a scalable, secure, and production-ready CRUD Blog Application.The application must provide a seamless blogging experience where users can create, manage, publish, and interact with blog content through an intuitive and responsive interface.The system should combine a high-performance frontend with a robust backend architecture, ensuring maintainability, scalability, and deployment readiness.Additionally, the platform must implement secure authentication, protected content management, image uploads, and optimized API communication suitable for real-world production environments.
+As a Full-Stack Software Engineer with expertise in modern web technologies, you will design and develop a scalable, secure, and production-ready CRUD blog application.With an intuitive, responsive interface for creating, planning, publishing, and engaging with blog content, the program should provide a seamless blogging experience.The system should have a strong backend design and a high-performance frontend in order to be deployable, scalable, and maintained. For practical, production-ready use, the platform should additionally provide image uploads, managed content security, authentication, and simplified APIs.
 
 ---
 
