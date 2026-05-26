@@ -1,7 +1,3 @@
-Here’s the same prompt reformatted using **bullet symbols throughout**, while keeping the same structure and topic:
-
----
-
 # Prompt
 
 ## Context and Role
