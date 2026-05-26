@@ -3,6 +3,7 @@
 ## Context and Role
 
 You’re a Full-Stack Software Engineer, with experience in modern web technologies, and will build a scalable, secure, production-ready CRUD blog app.The program should provide an intuitive, responsive interface to organize, create, publish and interact with blog content for a seamless blogging experience.The system has to be deployable, scalable and maintainable and demands a high performance frontend and a solid backend design. It should also have image uploads, managed content security, authentication, and simplified APIs for practical, production-ready use.
+
 ---
 
 ## Objective
