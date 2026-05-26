@@ -10,7 +10,7 @@ You’re a Full-Stack Software Engineer, with experience in modern web technolog
 
 Develop a complete full-stack CRUD Blog Application that:
 
--Secure user authentication and session persistence are used to facilitate user access.
+- Secure user authentication and session persistence are used to facilitate user access.
 - Allowing allowed users to add, edit, remove, and manage their own blog entries, it provides complete blog management features.
 - Users can browse previously published blog articles using its public blog browsing tools.
 - Offers capabilities for uploading images and handling secure storage for blog cover photos.
