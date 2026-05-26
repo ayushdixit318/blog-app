@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-label="Editorial writing page with notes and highlights">
+  <rect width="1400" height="840" fill="#fff7ed"/>
+  <rect x="190" y="110" width="760" height="620" rx="28" fill="#ffffff"/>
+  <rect x="250" y="180" width="470" height="44" rx="12" fill="#111827"/>
+  <rect x="250" y="280" width="580" height="24" rx="12" fill="#94a3b8"/>
+  <rect x="250" y="330" width="520" height="24" rx="12" fill="#cbd5e1"/>
+  <rect x="250" y="380" width="600" height="24" rx="12" fill="#cbd5e1"/>
+  <rect x="250" y="430" width="410" height="24" rx="12" fill="#cbd5e1"/>
+  <rect x="250" y="535" width="300" height="70" rx="14" fill="#facc15"/>
+  <rect x="1010" y="185" width="220" height="150" rx="24" fill="#fb7185"/>
+  <rect x="1010" y="380" width="220" height="260" rx="24" fill="#38bdf8"/>
+  <path d="M1070 260h100M1070 455h100M1070 505h80" stroke="#ffffff" stroke-width="18" stroke-linecap="round"/>
+</svg>

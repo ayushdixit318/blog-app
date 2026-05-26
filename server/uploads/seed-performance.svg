@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-label="Performance dashboard with fast metrics">
+  <rect width="1400" height="840" fill="#020617"/>
+  <g transform="translate(120 120)">
+    <rect width="1160" height="600" rx="30" fill="#f8fafc"/>
+    <rect x="72" y="74" width="350" height="42" rx="12" fill="#0f172a"/>
+    <rect x="72" y="158" width="250" height="250" rx="22" fill="#10b981"/>
+    <rect x="358" y="158" width="250" height="250" rx="22" fill="#3b82f6"/>
+    <rect x="644" y="158" width="444" height="250" rx="22" fill="#e2e8f0"/>
+    <path d="M704 332l72-88 76 58 118-126 72 84" fill="none" stroke="#ef4444" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="72" y="456" width="1016" height="42" rx="21" fill="#cbd5e1"/>
+    <rect x="72" y="456" width="690" height="42" rx="21" fill="#f59e0b"/>
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 840" role="img" aria-label="Remote work desk with calendar and coffee">
+  <rect width="1400" height="840" fill="#164e63"/>
+  <rect y="560" width="1400" height="280" fill="#f8fafc"/>
+  <rect x="180" y="150" width="640" height="410" rx="26" fill="#ffffff"/>
+  <rect x="235" y="210" width="530" height="42" rx="12" fill="#0f172a"/>
+  <g fill="#06b6d4">
+    <rect x="235" y="310" width="110" height="86" rx="16"/>
+    <rect x="375" y="310" width="110" height="86" rx="16"/>
+    <rect x="515" y="310" width="110" height="86" rx="16"/>
+    <rect x="655" y="310" width="110" height="86" rx="16"/>
+  </g>
+  <rect x="930" y="235" width="230" height="290" rx="32" fill="#f97316"/>
+  <rect x="980" y="285" width="130" height="130" rx="65" fill="#fff7ed"/>
+  <path d="M1160 340c80-12 92 112 2 104" fill="none" stroke="#fff7ed" stroke-width="28" stroke-linecap="round"/>
+  <rect x="340" y="610" width="720" height="34" rx="17" fill="#0f172a" opacity=".25"/>
+</svg>
